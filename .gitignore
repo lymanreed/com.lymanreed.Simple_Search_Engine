@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/The maximum pairwise product/out/
+/Problems/The maximum pairwise product/out/production/classes/
+/Problems/Unique characters/out/
+/Problems/Unique characters/out/production/classes/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/

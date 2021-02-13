@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Balance checker" />
+            <option value="$PROJECT_DIR$/Problems/Board game basics  Player" />
+            <option value="$PROJECT_DIR$/Problems/Car price" />
+            <option value="$PROJECT_DIR$/Problems/Case insensitive" />
+            <option value="$PROJECT_DIR$/Problems/Change program arguments" />
+            <option value="$PROJECT_DIR$/Problems/Complex handling" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Problems/Continuation-Passing Style" />
+            <option value="$PROJECT_DIR$/Problems/Danger level" />
+            <option value="$PROJECT_DIR$/Problems/Division" />
+            <option value="$PROJECT_DIR$/Problems/Escapism" />
+            <option value="$PROJECT_DIR$/Problems/First predicate" />
+            <option value="$PROJECT_DIR$/Problems/Fix the program" />
+            <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
+            <option value="$PROJECT_DIR$/Problems/Function composition" />
+            <option value="$PROJECT_DIR$/Problems/Function composition (1)" />
+            <option value="$PROJECT_DIR$/Problems/Function generator" />
+            <option value="$PROJECT_DIR$/Problems/Help the Lord Commander" />
+            <option value="$PROJECT_DIR$/Problems/Knights, merchants, and robbers" />
+            <option value="$PROJECT_DIR$/Problems/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Problems/Max" />
+            <option value="$PROJECT_DIR$/Problems/Not  predicate" />
+            <option value="$PROJECT_DIR$/Problems/Perimeter" />
+            <option value="$PROJECT_DIR$/Problems/Polynomial" />
+            <option value="$PROJECT_DIR$/Problems/Previous character" />
+            <option value="$PROJECT_DIR$/Problems/Printing arguments" />
+            <option value="$PROJECT_DIR$/Problems/Range multiplication" />
+            <option value="$PROJECT_DIR$/Problems/Size of parts" />
+            <option value="$PROJECT_DIR$/Problems/Strings as objects" />
+            <option value="$PROJECT_DIR$/Problems/Swap elements" />
+            <option value="$PROJECT_DIR$/Problems/The maximum pairwise product" />
+            <option value="$PROJECT_DIR$/Problems/Triples" />
+            <option value="$PROJECT_DIR$/Problems/True captain" />
+            <option value="$PROJECT_DIR$/Problems/Unique characters" />
+            <option value="$PROJECT_DIR$/Problems/Using arguments" />
+            <option value="$PROJECT_DIR$/Problems/Vowels" />
+            <option value="$PROJECT_DIR$/Simple Search Engine/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
